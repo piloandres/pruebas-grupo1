@@ -1,2 +1,2 @@
 # pruebas-grupo1
-Repositorio para que el grupo aprenda empíricamente a usar git
+why someone take a similar account? D:
